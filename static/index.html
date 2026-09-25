@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pemotong Video 9:16</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Pemotong Video 9:16</h1>
+  <p>Upload video landscape, isi durasi potongan, dan ubah hasilnya menjadi portrait untuk Shorts / TikTok / Reels.</p>
+</header>
+
+<main>
+  <section class="card">
+    <h2>1. Upload Video</h2>
+    <button id="btnPilih" class="primary">Pilih Video</button>
+    <input type="file" id="inputVideo" accept="video/*" hidden>
+    <div id="infoVideo" class="info hidden"></div>
+    <div id="errUpload" class="err hidden"></div>
+  </section>
+
+  <section class="card">
+    <h2>2. Durasi Potongan</h2>
+    <label for="inputDurasi">Durasi per potongan (detik)</label>
+    <input type="number" id="inputDurasi" min="1" step="1" placeholder="mis. 30">
+    <button id="btnProses" class="primary">Proses Video</button>
+    <div id="areaProgress" class="hidden">
+      <div class="bar"><div id="barFill"></div></div>
+      <p id="txtProgress"></p>
+    </div>
+    <div id="errProses" class="err hidden"></div>
+  </section>
+
+  <section id="cardHasil" class="card hidden">
+    <div class="hasil-head">
+      <h2>Hasil Potongan</h2>
+      <div class="hasil-aksi">
+        <button id="btnDownloadSemua" class="primary">Download Semua (ZIP)</button>
+        <button id="btnHapusSemua" class="danger">Clear</button>
+      </div>
+    </div>
+    <div id="grid" class="grid"></div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

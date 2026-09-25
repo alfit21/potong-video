@@ -1,0 +1,133 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #0f1115;
+  color: #e8eaed;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+header { margin-bottom: 20px; text-align: center; }
+header h1 { font-size: 26px; }
+header p { color: #9aa0a6; margin-top: 6px; font-size: 14px; }
+
+.card {
+  background: #1a1d24;
+  border: 1px solid #2b2f38;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 18px;
+}
+
+.card h2 { font-size: 16px; margin-bottom: 12px; color: #fbbc05; }
+
+button.primary {
+  background: #fbbc05;
+  color: #1a1d24;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 14px;
+}
+button.primary:disabled { opacity: 0.5; cursor: not-allowed; }
+
+button.danger {
+  background: transparent;
+  color: #ff6b6b;
+  border: 1px solid #7a2a2a;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.hasil-aksi { display: flex; gap: 8px; }
+
+input#inputDurasi {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #2b2f38;
+  border-radius: 8px;
+  background: #0f1115;
+  color: #e8eaed;
+  font-size: 15px;
+  margin: 8px 0 14px;
+}
+
+label { display: block; font-size: 13px; color: #9aa0a6; margin-bottom: 2px; }
+
+.info {
+  margin-top: 12px;
+  padding: 10px;
+  background: #0f1115;
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.err {
+  margin-top: 10px;
+  padding: 10px;
+  background: #3a1414;
+  border: 1px solid #7a2a2a;
+  border-radius: 8px;
+  color: #ffb4b4;
+  font-size: 14px;
+}
+
+.hidden { display: none !important; }
+
+.bar {
+  height: 12px;
+  background: #0f1115;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-top: 14px;
+}
+#barFill {
+  height: 100%;
+  width: 0%;
+  background: #fbbc05;
+  transition: width 0.3s;
+}
+#txtProgress { margin-top: 6px; font-size: 13px; color: #9aa0a6; }
+
+.hasil-head { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.video .judul {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  margin-bottom: 8px;
+  color: #9aa0a6;
+}
+
+.video video {
+  width: 100%;
+  aspect-ratio: 9 / 16;
+  background: #000;
+  border-radius: 8px;
+}
+
+.video a {
+  display: block;
+  text-align: center;
+  margin-top: 8px;
+  color: #fbbc05;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+}
+.video a:hover { text-decoration: underline; }
