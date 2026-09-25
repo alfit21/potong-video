@@ -22,6 +22,14 @@ function fmtDur(d) {
 function showErr(id, msg) { $(id).textContent = msg; $(id).classList.remove("hidden"); }
 function hideErr(id) { $(id).classList.add("hidden"); }
 
+async function bacaJson(r) {
+  try {
+    return await r.json();
+  } catch {
+    throw new Error("Server mengembalikan respons yang tidak dikenal. Coba lagi.");
+  }
+}
+
 btnPilih.addEventListener("click", () => inputVideo.click());
 inputVideo.addEventListener("change", async () => {
   hideErr("errUpload");
@@ -33,7 +41,7 @@ inputVideo.addEventListener("change", async () => {
   btnPilih.textContent = "Mengunggah...";
   try {
     const r = await fetch("/upload", { method: "POST", body: fd });
-    const data = await r.json();
+    const data = await bacaJson(r);
     if (!r.ok) throw new Error(data.error || "Upload gagal");
     fileInfo = data;
     $("infoVideo").innerHTML =
@@ -73,7 +81,7 @@ btnProses.addEventListener("click", async () => {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ filename: fileInfo.name, seconds: sec }),
     });
-    const data = await r.json();
+    const data = await bacaJson(r);
     if (!r.ok) throw new Error(data.error || "Gagal memulai proses");
     jobId = data.job_id;
   } catch (e) {
@@ -121,7 +129,7 @@ function kartu(v, i) {
 
 async function muatHasil() {
   const r = await fetch("/outputs");
-  const items = await r.json();
+  const items = await bacaJson(r);
   if (!r.ok) throw new Error("Gagal memuat hasil");
   const grid = $("grid");
   grid.innerHTML = "";

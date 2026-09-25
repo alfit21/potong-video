@@ -13,7 +13,8 @@ UPLOADS = os.path.join(BASE, "uploads")
 TEMP = os.path.join(BASE, "temp")
 OUTPUT = os.path.join(BASE, "output")
 EXT_DIDUKUNG = {".mp4", ".mov", ".m4v", ".webm", ".mkv", ".avi", ".wmv"}
-MAX_UPLOAD = 4 * 1024 ** 3
+MAX_GB = 20
+MAX_UPLOAD = MAX_GB * 1024 ** 3
 
 for d in (UPLOADS, TEMP, OUTPUT):
     os.makedirs(d, exist_ok=True)
@@ -62,6 +63,21 @@ def _worker(job_id, src, cut):
     except Exception:
         j["status"] = "error"
         j["error"] = vp.MSG["proses_gagal"]
+
+
+@app.errorhandler(413)
+def _terlalu_besar(e):
+    return jsonify({"error": f"File video terlalu besar (maksimal {MAX_GB} GB)."}), 413
+
+
+@app.errorhandler(404)
+def _tidak_ketemu(e):
+    return jsonify({"error": "Alamat tidak ditemukan."}), 404
+
+
+@app.errorhandler(500)
+def _server_error(e):
+    return jsonify({"error": vp.MSG["proses_gagal"]}), 500
 
 
 @app.get("/")
