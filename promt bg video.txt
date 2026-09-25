@@ -1,0 +1,17 @@
+A professional, wide-format YouTube end-screen graphic, generated with a 16:9 landscape aspect ratio.
+
+Background (must strictly follow the title): The background is a dynamic, procedurally generated abstract artwork that is directly derived from the semantic meaning of the input title text: "[MASUKAN JUDUL VIDEO]". Analyze the core subject/keywords of the title first, then generate the background's theme, color palette, texture, and visual motifs to match that subject specifically — this is a mandatory rule, not a suggestion. Examples: nature/faith-related titles → organic, soft, warm-toned textures with subtle leaf/light motifs; technology titles → geometric, digital, cool-toned patterns; history/religion titles → deep metallics, calligraphic or ornamental patterns. The background must visibly and recognizably reflect the title's topic, not just a generic random abstract pattern, while still keeping enough contrast for text/frames to stay readable.
+
+Overlaid on this contextual background are the fixed, mandatory elements:
+
+Upper-Left: A single, prominent, bold, stylized text title, exactly as input by the user: "[MASUKAN JUDUL VIDEO]". Large and commands attention.
+
+Below the Title: The circular portrait frame of Ustadz Oemar Mita from image_12.png, with all original text labels ("Ustadz Oemar Mita, Lc", "@alfit_all" with star icon) perfectly preserved and overlaid in a clear, contrasting color.
+
+Lower-Left (Caption Paper — randomized style, fixed size): A blank lined notepad/paper element reserved for auto captions. On every generation, randomly vary its style and shape character — e.g. a torn notebook page, a clean modern card with subtle lines, a vintage parchment-style paper, a sticky-note stack look, a minimalist ruled index-card style, a chalkboard-lined slate, or a soft rounded-corner card. Regardless of which style is chosen, the paper's dimensions must always stay large, wide, and tall — occupying a significant, consistent portion of the lower-left quadrant so there is always enough room for auto-generated caption text. Never shrink or resize this element for the sake of style variation; only its visual style/texture should change, not its size.
+
+Right Side (Video Placeholder Frame — randomized style, mandatory variety): A large, landscape-oriented (wide rectangle) video placeholder frame. On every generation, this frame's style must be randomly selected from a broad, diverse library — do not default to wood. Rotate among styles such as: sleek brushed metal border, glowing neon-edge box, minimalist flat-color border, glassmorphism/frosted-glass frame, ornate gold-leaf frame, rustic stone frame, carved wooden frame, polaroid-style border, holographic/iridescent edge, or thin modern line-art frame. Ensure the chosen style also loosely complements the background's theme/mood. Inside this wide frame, a dark video placeholder with a central filigreed play button and the text "VIDIO BERIKUTNYA" is always present.
+
+Bottom: The "SUBSCRIBE" button, bell icon, and text "Jangan Lupa Subscribe!" are retained, with a randomized decorative frame element below them (varied to match the overall generated style, not fixed to one pattern).
+
+The composition is perfectly balanced for a YouTube end-screen, with the title-driven background integrating seamlessly with the distinct, varied caption paper and video frame styles. The lighting is cinematic, and the paper for captions is deliberately large and legible on every generation.

@@ -1,0 +1,10 @@
+A high-impact, cinematic YouTube thumbnail, generated strictly with a 16:9 landscape aspect ratio (1280x720 pixels), designed for maximum click-through rate.
+
+Main Subject: A professionally enhanced, sharp, and well-lit close-up portrait of Ustadz Oemar Mita (from image_12.png), positioned prominently on the left side of the frame. The lighting on his face is directional and engaging, drawing the viewer's eye.
+
+Dynamic Contextual Background: The AI must intelligently analyze the core theme of the input title and generate a unique, highly relevant, and dynamic background that visually matches the topic (e.g., if the topic is about death or the grave, the background should feature a moody graveyard, ethereal light, or misty dimensions; if about heaven, a luminous celestial gate; if about knowledge, glowing ancient manuscripts or spiritual light beams). The background must blend seamlessly with dramatic cinematic lighting, deep shadows, and high contrast.
+
+Dominant Title Element: Located on the right side, a massive, bold, dramatic title text block.
+The AI must analyze the input text: "[MASUKKAN JUDUL LENGKAP ANDA DI SINI]" and intelligently break it into two or three lines of text. The AI should use typographic hierarchy, making the most critical words significantly larger, bolder, and using vibrant colors (like metallic gold, glowing white, or crimson) than the rest. The entire title block must have dramatic depth, texture, and cast sharp shadows to pop off the contextual background.
+
+Supporting Label: A clean, bold white text label below the main title reading: "Ustadz Oemar Mita".
