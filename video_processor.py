@@ -62,7 +62,7 @@ def cut_segments(src, cut, temp_dir, out_dir, progress=None):
     total = segment_count(info["duration"], cut)
     vf = (f"split[a][b];[a]scale={TARGET_W}:{TARGET_H}:force_original_aspect_ratio=increase,"
           f"crop={TARGET_W}:{TARGET_H},gblur=sigma=40[bg];"
-          f"[b]scale={TARGET_W}:{TARGET_H}:force_original_aspect_ratio=decrease[fg];"
+          f"[b]scale={TARGET_W}:-2[fg];"
           f"[bg][fg]overlay=(W-w)/2:(H-h)/2")
     hasil = []
     for i in range(1, total + 1):
