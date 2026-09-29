@@ -1,17 +1,22 @@
-    A high-impact, cinematic vertical video thumbnail (9:16 aspect ratio) optimized for mobile screens, designed for maximum click-through rate, featuring Ustadz Oemar Mita.
+Create a cinematic vertical video thumbnail (9:16 aspect ratio), optimized for mobile screens and high click-through rate.
 
-    Main Subject:
-    A professionally enhanced, sharp, and well-lit close-up portrait of Ustadz Oemar Mita, positioned prominently in the bottom-center or bottom-right portion of the frame, looking directly and engagingly at the camera with a warm, inviting expression.
+CRITICAL – FACE & IDENTITY LOCK:
+Use the attached reference photo as the exact subject. Do NOT redraw, regenerate, beautify, slim, smooth, age, de-age, or reinterpret the face. Keep it 100% identical to the reference photo: same face shape, eyes, eyebrows, nose, mouth, beard/mustache, skin tone and skin texture, glasses, head covering/turban, and clothing. Preserve the exact facial expression and head angle from the reference photo. Treat the person as a cut-out photograph composited into a new scene, not as a newly generated character. No face swap, no stylization, no retouching of facial features.
 
-    Dynamic Contextual Background:
-    An intelligent, emotionally resonant background visually illustrating the core theme of the video title. The AI will analyze the provided title below and generate a relevant, high-contrast, cinematic scene (e.g., a stormy sky parting into golden light, a celestial garden, or a path leading from darkness to light).
+Subject placement:
+Place the person from the reference photo in the bottom-center or bottom-right of the frame, from chest up, at natural scale (do not enlarge the face beyond the original photo's resolution). Only adjust lighting on the person to match the background: a soft golden rim light on the edges and subtle color grading. Do not alter facial features while relighting.
 
-    Dominant Title Element:
-    Massive, bold, dramatic title text placed in the upper half of the vertical frame. The AI will analyze the following title and intelligently stack it into 3-4 lines for optimal legibility on a small mobile screen, applying a strong typographic hierarchy with metallic gold and white colors with a dark outline:
+Background:
+Generate a high-contrast, cinematic, emotionally resonant background that illustrates the theme of the video title below (for example: a stormy sky parting into golden light, a celestial garden, or a path leading from darkness into light). Keep the area behind and around the face clean and slightly darker/blurred so the face stands out.
 
-    [MASUKKAN JUDUL ANDA DI SINI]
+Title text:
+Place massive, bold, dramatic text in the upper half of the frame. Split the title into 3–4 short stacked lines with strong typographic hierarchy, in metallic gold and white with a thick dark outline and subtle shadow for legibility on small screens. Spell the text exactly as written, with no extra words.
 
-    Supporting Label:
-    A clean, bold white text label below the main title block reading: "Ustadz Oemar Mita".
+TITLE: [MASUKKAN JUDUL ANDA DI SINI]
 
-    Overall Feel: Premium, urgent, spiritual, and highly engaging.
+Label:
+Below the title block, add a clean bold white text label reading exactly: "Ustadz Oemar Mita".
+
+Style: premium, urgent, spiritual, highly engaging. Sharp overall composition, but the face must remain exactly as in the reference photo.
+
+Negative prompt: different person, altered face, changed facial features, beautified skin, plastic skin, face reshaping, different expression, different age, extra people, distorted hands, misspelled text, watermark, blurry face.

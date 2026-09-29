@@ -1,10 +1,22 @@
-A high-impact, cinematic YouTube thumbnail, generated strictly with a 16:9 landscape aspect ratio (1280x720 pixels), designed for maximum click-through rate.
+Create a cinematic YouTube thumbnail in 16:9 landscape aspect ratio (1280x720 pixels), designed for maximum click-through rate.
 
-Main Subject: A professionally enhanced, sharp, and well-lit close-up portrait of Ustadz Oemar Mita from the attached photo file, positioned prominently on the left side of the frame. The lighting on his face is directional and engaging, drawing the viewer's eye.
+CRITICAL – FACE & IDENTITY LOCK:
+Use the attached reference photo as the exact subject. Do NOT redraw, regenerate, beautify, slim, smooth, age, de-age, or reinterpret the face. Keep it 100% identical to the reference photo: same face shape, eyes, eyebrows, nose, mouth, beard/mustache, skin tone and skin texture, glasses, head covering/turban, and clothing. Preserve the exact facial expression and head angle from the reference photo. Treat the person as a cut-out photograph composited into a new scene, not as a newly generated character. No face swap, no stylization, no retouching of facial features.
 
-Dynamic Contextual Background: The AI must intelligently analyze the core theme of the input title and generate a unique, highly relevant, and dynamic background that visually matches the topic (e.g., if the topic is about death or the grave, the background should feature a moody graveyard, ethereal light, or misty dimensions; if about heaven, a luminous celestial gate; if about knowledge, glowing ancient manuscripts or spiritual light beams). The background must blend seamlessly with dramatic cinematic lighting, deep shadows, and high contrast.
+Subject placement:
+Place the person from the reference photo on the left side of the frame, from chest up, at natural scale (do not enlarge the face beyond the original photo's resolution). Do not relight or reshape the face. Only add a soft rim light (golden or colored to match the background) along the outer edges of the head and shoulders, plus subtle color grading so he blends into the scene. Facial features, shadows on the face, and skin texture must remain exactly as in the reference.
 
-Dominant Title Element: Located on the right side, a massive, bold, dramatic title text block.
-The AI must analyze the input text: "[MASUKKAN JUDUL LENGKAP ANDA DI SINI]" and intelligently break it into two or three lines of text. The AI should use typographic hierarchy, making the most critical words significantly larger, bolder, and using vibrant colors (like metallic gold, glowing white, or crimson) than the rest. The entire title block must have dramatic depth, texture, and cast sharp shadows to pop off the contextual background.
+Background:
+Analyze the theme of the title below and generate a unique, relevant, cinematic background that matches the topic. Examples: death or the grave → a moody misty graveyard with ethereal light; heaven → a luminous celestial gate; knowledge → glowing ancient manuscripts or beams of spiritual light. Use dramatic lighting, deep shadows, and high contrast. Keep the area directly behind the person slightly darker or blurred so he stands out clearly.
 
-Supporting Label: A clean, bold white text label below the main title reading: "Ustadz Oemar Mita".
+Title text (right side):
+Place a massive, bold, dramatic title block on the right side of the frame. Break the title into 2–3 stacked lines. Use typographic hierarchy: the most critical words are significantly larger and bolder, in vibrant colors (metallic gold, glowing white, or crimson), while the remaining words are smaller. Add depth, texture, a thick dark outline, and sharp drop shadows so the text pops off the background. Spell the text exactly as written, with no extra words.
+
+TITLE: [MASUKKAN JUDUL LENGKAP ANDA DI SINI]
+
+Label:
+Below the title block, add a clean bold white text label reading exactly: "Ustadz Oemar Mita".
+
+Style: premium, urgent, spiritual, highly engaging. Sharp overall composition, but the face must remain exactly as in the reference photo.
+
+Negative prompt: different person, altered face, changed facial features, beautified skin, plastic skin, face reshaping, different expression, different age, extra people, distorted hands, misspelled text, watermark, blurry face.
