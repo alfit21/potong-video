@@ -6,7 +6,7 @@ Overlaid on this contextual background are the fixed, mandatory elements:
 
 Upper-Left: A single, prominent, bold, stylized text title, exactly as input by the user: "[MASUKAN JUDUL VIDEO]". Large and commands attention.
 
-Below the Title: The circular portrait frame of Ustadz Oemar Mita from image_12.png, with all original text labels ("Ustadz Oemar Mita, Lc", "@alfit_all" with star icon) perfectly preserved and overlaid in a clear, contrasting color.
+Below the Title: A circular portrait frame of Ustadz Oemar Mita from the attached photo file, with all original text labels ("Ustadz Oemar Mita, Lc", "@alfit_all" with star icon) perfectly preserved and overlaid in a clear, contrasting color.
 
 Lower-Left (Caption Paper — randomized style, fixed size): A blank lined notepad/paper element reserved for auto captions. On every generation, randomly vary its style and shape character — e.g. a torn notebook page, a clean modern card with subtle lines, a vintage parchment-style paper, a sticky-note stack look, a minimalist ruled index-card style, a chalkboard-lined slate, or a soft rounded-corner card. Regardless of which style is chosen, the paper's dimensions must always stay large, wide, and tall — occupying a significant, consistent portion of the lower-left quadrant so there is always enough room for auto-generated caption text. Never shrink or resize this element for the sake of style variation; only its visual style/texture should change, not its size.
 
