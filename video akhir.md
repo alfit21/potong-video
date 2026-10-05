@@ -12,3 +12,4 @@ oemar mita
 - 3 Alasan Untuk Kita Tak Lelah Berbuat Baik | jangan Berhenti Berbuat Baik, Sebelum Allah Berhenti Memberi Napas
 - Menjernihkan Hati pada Jiwa | Metode Penyucian Jiwa: Panduan Membersihkan Hati dari Penyakit Batin | Ustadz Oemar Mita, Lc
 - Indahnya jiwa yang Tenang | Jangan Jadi "Budak Nafsu" Tanpa Sadar! Kenali Tanda-Tanda Hati yang Mulai Mati Sebelum Terlambat
+- Karena Fitrah Jiwa itu Mempertemukan yang Setara | Bekal Apa yang Dibawa Pulang? Kenali Rahasia Pertemuan Jiwa Menuju Allah
