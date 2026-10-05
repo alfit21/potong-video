@@ -9,4 +9,6 @@ oemar mita
 - MEMBUKA PINTU HATI SUAMI | Istri Sering Salah Cara! Begini Seni Menasihati Suami agar Tembus ke Hati
 - Pastikanlah Hati Kita Bersih Setiap Waktunya | Apakah Ibadahmu Selama Ini Diterima, atau Justru Tertolak Karena Kebersihan Hati yang Terabaikan?
 - Amalan Superᴴᴰ | Jangan Mati Sebelum Tahu Amalan Ini! Bekal Paling Ditakuti Sekaligus Dirindukan
-- 3 Alasan Untuk Kita Tak Lelah Berbuat Baik |
+- 3 Alasan Untuk Kita Tak Lelah Berbuat Baik | jangan Berhenti Berbuat Baik, Sebelum Allah Berhenti Memberi Napas
+- Menjernihkan Hati pada Jiwa | Metode Penyucian Jiwa: Panduan Membersihkan Hati dari Penyakit Batin | Ustadz Oemar Mita, Lc
+- Indahnya jiwa yang Tenang | Jangan Jadi "Budak Nafsu" Tanpa Sadar! Kenali Tanda-Tanda Hati yang Mulai Mati Sebelum Terlambat

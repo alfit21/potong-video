@@ -1,12 +1,42 @@
-Bertindaklah sebagai ahli YouTube SEO dan Content Writer profesional.
-Tolong buatkan deskripsi video YouTube yang dioptimalkan untuk pencarian organik (YouTube SEO) dan Google Search berdasarkan video berikut: [LINK YOUTUBE]
+Act as a professional YouTube SEO expert and Content Writer.
 
-Ketentuan pembuatan deskripsi:
+Write a YouTube video description optimized for organic YouTube search and Google Search, based on this video: [YOUTUBE LINK]
 
-Paragraf Utama (1-3 baris pertama): Harus memuat kata kunci utama secara natural dan menarik agar memancing klik (CTR tinggi) serta mudah terbaca sebagai snippet di Google Search.
+First, watch or read the transcript of the video so the description is accurate and based on the actual content. Do not invent topics, quotes, or Quran/Hadith references that are not in the video.
 
-Isi Ringkasan & Poin Pembahasan: Berikan ringkasan materi serta daftar poin-poin penting pembahasan dalam video dengan bahasa yang mengalir, rapi, dan mudah dipahami (tanpa menggunakan timestamp waktu).
+Write the entire description in Indonesian.
 
-Penutup & CTA: Sertakan ajakan untuk berinteraksi (subscribe, like, comment, share) serta hashtag yang relevan dan populer di akhir deskripsi.
+Description requirements:
 
-Gunakan gaya bahasa yang profesional, Islami, namun tetap ramah dan mudah dipahami audiens umum.
+1. Opening paragraph (first 1-3 lines):
+- Include the main keyword naturally within the first sentence.
+- Make it engaging and curiosity-driven to boost CTR.
+- Keep it under roughly 150 characters for the key hook, so it displays fully as a snippet in YouTube and Google Search.
+
+2. Summary & key discussion points:
+- Write a short summary of the video's material in flowing, easy-to-understand language.
+- Follow it with a neat list of the key points covered (bullet points or numbered list).
+- Do NOT use timestamps.
+- Naturally weave in 3-5 secondary and long-tail keywords related to the topic. Avoid keyword stuffing.
+
+3. Closing & CTA:
+- Invite viewers to subscribe, like, comment, and share, with a friendly, non-pushy tone.
+- Optionally ask one engaging question to encourage comments.
+
+4. Credits section (place before the hashtags), formatted exactly like this:
+Video By OemarMitaSyameela
+Speaker: Ustadz Oemar Mita, Lc
+Spell "OemarMitaSyameela" exactly as written, with no spaces and with the same capital letters.
+
+5. Hashtags:
+- Add 3-5 relevant and popular hashtags at the very end (e.g., topic-related, Islamic, and ustadz-related hashtags).
+
+Tone and style:
+- Professional and Islamic, yet warm, friendly, and easy for a general audience to understand.
+- Use proper Islamic greetings and expressions where appropriate, without overdoing them.
+- Use clean formatting with short paragraphs and line breaks so it is easy to scan.
+- Avoid clickbait that misrepresents the video content.
+
+Output:
+- Provide the final description, ready to copy and paste into YouTube.
+- After the description, add 1 recommended SEO-friendly video title and a list of 10-15 comma-separated tags for the YouTube tags field.
