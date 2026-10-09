@@ -1,23 +1,41 @@
+VIDEO TITLE (ISI HANYA DI SINI): "[MASUKAN JUDUL VIDEO]"
+Every mention of "VIDEO TITLE" below refers to this exact text. Do not change, translate, shorten, or add words to it.
+
 Create a professional YouTube end-screen graphic in 16:9 landscape aspect ratio (1920x1080 pixels).
 
 CRITICAL – FACE & IDENTITY LOCK:
 Use the attached reference photo as the exact subject of the circular portrait. Do NOT redraw, regenerate, beautify, slim, smooth, age, de-age, or reinterpret the face. Keep it 100% identical to the reference photo: same face shape, eyes, eyebrows, nose, mouth, beard/mustache, skin tone and skin texture, glasses, head covering/turban, clothing, expression, and head angle. Treat the person as a cut-out photograph placed inside a circular frame, not as a newly generated character. Crop the photo into the circle without altering the face. No face swap, no stylization, no retouching, no relighting of the face. All randomization and creativity below apply ONLY to decorative elements, never to the face.
 
-Background (must follow the title):
-Analyze the core subject and keywords of this title: "[MASUKAN JUDUL VIDEO]". Generate an abstract, cinematic background whose theme, color palette, texture, and motifs clearly reflect that subject. Examples: nature/faith → organic, soft, warm textures with subtle leaf and light motifs; technology → geometric, cool-toned digital patterns; history/religion → deep metallics with calligraphic or ornamental patterns. The background must visibly reflect the title's topic, not a generic abstract pattern, and must keep enough contrast so all text and frames stay readable. Keep the background darker and calmer behind the portrait, caption paper, and video frame.
+CRITICAL – NO ARABIC SCRIPT / NO QURANIC TEXT:
+The entire image must contain NO Arabic script, NO Arabic calligraphy, NO Quranic verses (ayat Al-Qur'an), NO hadith text, NO pseudo-Arabic letters, and NO letter-like or text-like symbols anywhere (background, borders, frames, paper, buttons, ornaments). The only text allowed in the whole image is the exact text specified in this prompt, in Latin alphabet. All ornaments must be purely abstract or geometric shapes, never letters or calligraphy.
+
+CRITICAL – MAIN BACKGROUND MUST FOLLOW THE THEME OF THE VIDEO TITLE (highest priority for all decorative elements):
+The main background is NOT random. It must be built directly from the theme of the VIDEO TITLE.
+Step 1: Extract the 2–4 core keywords and the overall mood of the VIDEO TITLE (e.g. serious, hopeful, mysterious, peaceful, urgent, joyful).
+Step 2: Design the background scene from those keywords: choose the setting, objects, motifs, textures, lighting, and color palette that a viewer would immediately associate with that topic.
+Step 3: The topic must be recognizable at a glance from the background alone, even before reading the title. A generic abstract gradient, random bokeh, or unrelated scenery is NOT acceptable.
+Theme examples (adapt to the real title, do not copy blindly):
+- nature / patience / gratitude → soft warm sunrise light, leaves, water, mist, earthy greens and golds
+- technology / science → geometric cool-toned digital grids, circuits, glowing blue and cyan lines
+- history / heritage → aged maps, stone textures, old paper, deep bronze and sepia tones
+- religion / faith / worship → serene architectural silhouettes (mosque dome, arch, lantern, minaret), glowing light rays, abstract geometric ornament, deep emerald, navy, and gold, with absolutely no letters, calligraphy, or verses
+- family / character / daily life → warm homey scenes, soft lights, gentle natural textures
+- money / business → clean modern city or abstract growth motifs, dark blue and gold
+Keep the background cinematic, with depth and soft lighting. Keep it darker, calmer, and less detailed behind the portrait, caption paper, and video frame so every text and frame stays perfectly readable. The theme motifs should be most visible in the open areas and edges.
+The paper, video frame, and bottom frame styles should harmonize with the background's color palette and mood.
 
 Layout (fixed positions):
 
-1. Upper-left: the title text, exactly as written: "[MASUKAN JUDUL VIDEO]". Large, bold, stylized, in high-contrast colors with a thick dark outline and soft shadow. Spell it exactly, with no extra words.
+1. Upper-left: the VIDEO TITLE text, exactly as written, character for character. Large, bold, stylized, in high-contrast colors with a thick dark outline and soft shadow. Spell it exactly, with no extra words.
 
 2. Below the title: a circular portrait frame containing the person from the reference photo (face locked, as above). Next to or below the portrait, add these two text labels, spelled exactly: "Ustadz Oemar Mita, Lc" and "@alfit_all" with a small star icon. Use a clear, contrasting color for the text.
 
-3. Lower-left: a large, wide, tall blank lined paper element reserved for auto captions. Occupy a significant, consistent portion of the lower-left quadrant. The size is fixed and must not shrink. Pick ONE style at random for the paper's look only: torn notebook page, clean modern card, vintage parchment, sticky-note stack, ruled index card, chalkboard slate, or soft rounded card. The paper must stay blank, with lines only and no text.
+3. Lower-left: a large, wide, tall blank lined paper element reserved for auto captions. Occupy a significant, consistent portion of the lower-left quadrant. The size is fixed and must not shrink. Pick ONE style at random for the paper's look only: torn notebook page, clean modern card, vintage parchment, sticky-note stack, ruled index card, chalkboard slate, or soft rounded card. The paper must stay blank, with lines only and no text of any kind.
 
-4. Right side: a large, wide landscape video placeholder frame. Pick ONE frame style at random (do not default to wood): brushed metal, glowing neon edge, minimalist flat border, frosted glass, ornate gold leaf, rustic stone, carved wood, polaroid, holographic iridescent, or thin line-art. It should loosely complement the background theme. Inside the frame: a dark video placeholder, a central filigreed play button, and the text "VIDEO BERIKUTNYA". At the bottom edge of the frame (just below the video area, centered), add the small credit text, spelled exactly: "Video By OemarMitaSyameela". Use a clean, readable font in a contrasting color, smaller than "VIDEO BERIKUTNYA" but still clearly legible, with a subtle shadow. Spell it exactly, keeping the capital letters as written, with no spaces inside "OemarMitaSyameela".
+4. Right side: a large, wide landscape video placeholder frame. Pick ONE frame style at random (do not default to wood): brushed metal, glowing neon edge, minimalist flat border, frosted glass, ornate gold leaf, rustic stone, carved wood, polaroid, holographic iridescent, or thin line-art. It must complement the background theme and palette. The frame decoration must use only abstract or geometric patterns, never letters or calligraphy. Inside the frame: a dark video placeholder, a central filigreed play button, and the text "VIDEO BERIKUTNYA". At the bottom edge of the frame (just below the video area, centered), add the small credit text, spelled exactly: "Video By OemarMitaSyameela". Use a clean, readable font in a contrasting color, smaller than "VIDEO BERIKUTNYA" but still clearly legible, with a subtle shadow. Spell it exactly, keeping the capital letters as written, with no spaces inside "OemarMitaSyameela".
 
-5. Bottom: a "SUBSCRIBE" button, a bell icon, and the text "Jangan Lupa Subscribe!", with a decorative frame element below them in a style matching the rest of the design.
+5. Bottom: a "SUBSCRIBE" button, a bell icon, and the text "Jangan Lupa Subscribe!", with a decorative frame element below them in a style matching the background theme (abstract ornament only, no letters).
 
-Overall: balanced, premium, cinematic lighting, clean and legible. Randomize only the decorative styles of the background, paper, video frame, and bottom frame. The face, the name labels, the video credit text, and the layout positions never change.
+Overall: balanced, premium, cinematic lighting, clean and legible. The background theme is always determined by the VIDEO TITLE and must never be replaced by an unrelated style. Randomize only the decorative styles of the paper, video frame, and bottom frame, plus minor variations within the background theme. The face, the name labels, the video credit text, and the layout positions never change.
 
-Negative prompt: different person, altered face, changed facial features, beautified skin, plastic skin, face reshaping, different expression, different age, extra people, misspelled text, wrong name, garbled letters, misspelled "Video By OemarMitaSyameela", watermark, blurry face, text written on the caption paper.
+Negative prompt: Arabic text, Arabic script, Arabic calligraphy, Quran verses, ayat Al-Qur'an, hadith text, pseudo-Arabic letters, fake letters, gibberish text, random symbols resembling letters, religious scripture text, generic abstract background unrelated to the title, random unrelated scenery, background that ignores the title's topic, busy background behind text, different person, altered face, changed facial features, beautified skin, plastic skin, face reshaping, different expression, different age, extra people, misspelled text, wrong name, garbled letters, misspelled "Video By OemarMitaSyameela", watermark, blurry face, text written on the caption paper, extra words added to the title, translated or altered title.

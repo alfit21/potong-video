@@ -13,3 +13,5 @@ oemar mita
 - Menjernihkan Hati pada Jiwa | Metode Penyucian Jiwa: Panduan Membersihkan Hati dari Penyakit Batin | Ustadz Oemar Mita, Lc
 - Indahnya jiwa yang Tenang | Jangan Jadi "Budak Nafsu" Tanpa Sadar! Kenali Tanda-Tanda Hati yang Mulai Mati Sebelum Terlambat
 - Karena Fitrah Jiwa itu Mempertemukan yang Setara | Bekal Apa yang Dibawa Pulang? Kenali Rahasia Pertemuan Jiwa Menuju Allah
+- Taubatlah Sebelum Allôh Mencabut Tirainya | Allah Masih Tutupi Dosa Kita... Tapi Sampai Kapan?
+- 10 SYAFA'ATMU KELAK DI SURGA | Amalan Sederhana Sebelum Tidur yang Mampu Menyelamatkanmu Dari Siksa Kubur
