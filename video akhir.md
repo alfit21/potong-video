@@ -15,3 +15,7 @@ oemar mita
 - Karena Fitrah Jiwa itu Mempertemukan yang Setara | Bekal Apa yang Dibawa Pulang? Kenali Rahasia Pertemuan Jiwa Menuju Allah
 - Taubatlah Sebelum Allôh Mencabut Tirainya | Allah Masih Tutupi Dosa Kita... Tapi Sampai Kapan?
 - 10 SYAFA'ATMU KELAK DI SURGA | Amalan Sederhana Sebelum Tidur yang Mampu Menyelamatkanmu Dari Siksa Kubur
+- MERENCANAKAN INDAHNYA MENUTUP MATA | Detik-Detik Penentu, Bagaimana Cara Agar Bibir Ini Mampu Mengucap Laa Ilaha Illallah?
+- Aku & Kamuᴴᴰ |
+- Penyebab sakitnya pada Hati | Agar Kerja Dihitung Ibadah dan Bernilai Pahala - Ustadz Oemar Mita, Lc
+- MENGAKHIRI PERJALANAN DUNIA DENGAN HUSNUL KHATIMAH | Bagaimana Jika Detik Ini Adalah Akhir Perjalananmu?
