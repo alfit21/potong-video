@@ -18,4 +18,10 @@ oemar mita
 - MERENCANAKAN INDAHNYA MENUTUP MATA | Detik-Detik Penentu, Bagaimana Cara Agar Bibir Ini Mampu Mengucap Laa Ilaha Illallah?
 - Aku & Kamuᴴᴰ |
 - Penyebab sakitnya pada Hati | Agar Kerja Dihitung Ibadah dan Bernilai Pahala - Ustadz Oemar Mita, Lc
-- MENGAKHIRI PERJALANAN DUNIA DENGAN HUSNUL KHATIMAH | Bagaimana Jika Detik Ini Adalah Akhir Perjalananmu?
+- MENGAKHIRI PERJALANAN DUNIA DENGAN HUSNUL KHATIMAH | Bagaimana Jika Detik Ini Adalah Akhir Perjalananmu? | Ustadz Oemar Mita
+- SEBAB-SEBAB SU'UL KHATIMAH | Hati-Hati! 4 Kebiasaan Ini Bisa Mengantar Kita Pada Su'ul Khatimah
+- CARA BAHAGIA | Kenapa Semakin Kaya Dunia, Hati Manusia Justru Semakin Kosong?
+- Inilah Bentengmu! ( Surat Al-Falaq Dan An-Naas ) | Rumah Mewah Tapi Kuburan? Ini Tanda Hati yang Mulai Mati
+- MENGUBAH TAKDIR DENGAN DOA | Hati-Hati, Murka Allah Bisa Menimpa Orang yang Jarang Melakukan Ini
+- Allah Tahu Kamu Lebih Kuat Daripada Yang Kamu Kira | Bahaya Hati yang Rusak: Dosa Tersembunyi Ini Bisa Menghapus Seluruh Amal Kebaikanmu
+- IKHLAS | Ibadah Puluhan Tahun Hilang Tanpa Sisa! Ternyata Ini Penyebab Utamanya
