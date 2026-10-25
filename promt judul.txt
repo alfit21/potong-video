@@ -1,8 +1,25 @@
-Bertindaklah sebagai YouTube Growth Expert dan Copywriter profesional yang ahli dalam psikologi audiens. Berdasarkan ringkasan materi ceramah dari Ustadz Oemar Mita, buatkan pilihan judul video YouTube yang dramatis, sangat jelas, dan mampu memancing rasa penasaran penonton agar tertarik untuk mengklik dan menonton video tersebut.
+Bertindaklah sebagai YouTube Growth Expert, SEO Specialist, dan Copywriter profesional yang ahli dalam psikologi audiens muslim Indonesia. Berdasarkan ringkasan materi ceramah Ustadz Oemar Mita di bawah, buatkan judul video YouTube yang dramatis, jelas, dan memancing rasa penasaran, sekaligus SEO friendly agar mudah ditemukan lewat pencarian dan rekomendasi YouTube.
 
-Kriteria Judul yang Harus Dibuat:
-1. Memiliki unsur urgensi, refleksi mendalam, atau sentuhan emosional (mengaitkan topik kematian, husnul khatimah, atau rindu bertemu Allah).
-2. Terlihat kuat dan jelas pada pandangan pertama (tidak bertele-tele).
-3. Buat dalam beberapa kategori gaya (misal: Gaya Penyadaran Diri, Gaya Emosional, dan Gaya Pertanyaan Reflektif).
+RINGKASAN MATERI: BERDASARKAN MATERI POIN POIN DI ATAS
 
-Berikan minimal 5 pilihan judul terbaik beserta alasan singkat mengapa judul tersebut efektif untuk menarik klik.
+KRITERIA JUDUL (WAJIB):
+1. Unsur emosi: memiliki urgensi, refleksi mendalam, atau sentuhan emosional.
+2. SEO:
+   - Letakkan kata kunci utama (topik yang benar-benar dicari orang, misalnya "rezeki", "sakaratul maut", "shalat khusyuk") di awal judul, sebelum kata dramatis.
+   - Gunakan kata kunci yang natural dan sering dicari penonton Indonesia, bukan istilah yang terlalu akademis.
+   - Panjang maksimal 60 karakter agar tidak terpotong di hasil pencarian dan HP.
+   - Sertakan "Ustadz Oemar Mita" hanya jika masih muat, atau sarankan untuk ditaruh di deskripsi.
+3. Jujur: judul harus sesuai dengan isi ceramah. Dramatis boleh, menyesatkan tidak boleh (tidak ada janji, angka, atau klaim yang tidak ada di materi).
+4. Jelas pada pandangan pertama: tidak bertele-tele, satu ide utama per judul, maksimal 1 tanda baca emosional (? atau !).
+5. Variasi gaya: Penyadaran Diri, Emosional, Pertanyaan Reflektif, Peringatan/Urgensi, dan Manfaat/Solusi.
+
+FORMAT HASIL:
+Berikan minimal 10 judul (minimal 2 per gaya). Untuk setiap judul tulis:
+- Judul YouTube (maks. 60 karakter)
+- Kata kunci utama yang dipakai
+- Teks thumbnail: versi sangat singkat dari judul (maks. 4-6 kata, bisa dipecah 3-4 baris) yang akan dipakai di gambar thumbnail
+- Alasan singkat (1 kalimat) kenapa efektif untuk klik dan pencarian
+
+Setelah daftar judul, berikan:
+- 3 judul terbaik pilihan Anda beserta alasannya
+- 5-8 tag/kata kunci pendukung untuk kolom tag dan deskripsi video

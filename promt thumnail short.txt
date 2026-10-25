@@ -3,20 +3,29 @@ Create a cinematic vertical video thumbnail (9:16 aspect ratio), optimized for m
 CRITICAL – FACE & IDENTITY LOCK:
 Use the attached reference photo as the exact subject. Do NOT redraw, regenerate, beautify, slim, smooth, age, de-age, or reinterpret the face. Keep it 100% identical to the reference photo: same face shape, eyes, eyebrows, nose, mouth, beard/mustache, skin tone and skin texture, glasses, head covering/turban, and clothing. Preserve the exact facial expression and head angle from the reference photo. Treat the person as a cut-out photograph composited into a new scene, not as a newly generated character. No face swap, no stylization, no retouching of facial features.
 
-Subject placement:
-Place the person from the reference photo in the bottom-center or bottom-right of the frame, from chest up, at natural scale (do not enlarge the face beyond the original photo's resolution). Only adjust lighting on the person to match the background: a soft golden rim light on the edges and subtle color grading. Do not alter facial features while relighting.
+SUBJECT PLACEMENT:
+Place the person in the bottom-center or bottom-right of the frame, chest up, at natural scale (do not enlarge the face beyond the original photo's resolution). Only adjust the lighting and color grading on the person so they match the background scene. Do not alter facial features while relighting.
 
-Background:
-Generate a high-contrast, cinematic, emotionally resonant background that illustrates the theme of the video title below (for example: a stormy sky parting into golden light, a celestial garden, or a path leading from darkness into light). Keep the area behind and around the face clean and slightly darker/blurred so the face stands out.
+BACKGROUND – CREATE A UNIQUE IDEA FROM THE TITLE:
+You are the creative director. Read the TITLE below, understand its meaning, emotion, and key subject, then come up with your own original background concept that visually tells the story of that title. A viewer should understand the topic of the video from the background alone, before reading the text.
+- Choose the setting, objects, color palette, time of day, and mood yourself, based only on the title.
+- Every title must produce a completely different scene and look. Never reuse a generic template or the same visual style twice.
+- Make it high-contrast, cinematic, and emotionally fitting.
+- Keep the area behind and around the face slightly darker or softly blurred so the face stands out.
 
-Title text:
-Place massive, bold, dramatic text in the upper half of the frame. Split the title into 3–4 short stacked lines with strong typographic hierarchy, in metallic gold and white with a thick dark outline and subtle shadow for legibility on small screens. Spell the text exactly as written, with no extra words.
+TITLE TEXT – TYPOGRAPHY:
+Place massive, bold text in the upper half of the frame, split into 3–4 short stacked lines. Use an ultra-heavy condensed sans-serif font (Impact / Anton / Bebas Neue style), all caps, tight line spacing, with strong size hierarchy: the 1–2 most important words are 1.5–2x larger than the rest.
+Text colors for maximum pop on small screens:
+- Main words: bright yellow (#FFD400) or vivid white
+- Key emphasis word: hot red (#FF2B2B) or bright orange (#FF7A00), whichever contrasts best with the background you created
+- Always add a thick black outline (6–8 px), a subtle drop shadow, and a slight dark glow behind the letters so they stay readable on any background.
+Do NOT use thin, script, or ornamental fonts. Text must be readable at thumbnail size on a phone. Spell the text exactly as written, with no extra words.
 
 TITLE: [MASUKKAN JUDUL ANDA DI SINI]
 
-Label:
-Below the title block, add a clean bold white text label reading exactly: "Ustadz Oemar Mita".
+LABEL:
+Below the title block, add a bold white sans-serif text label reading exactly: "Ustadz Oemar Mita", with a thick black outline, or placed on a solid dark rounded bar.
 
-Style: premium, urgent, spiritual, highly engaging. Sharp overall composition, but the face must remain exactly as in the reference photo.
+STYLE: premium, urgent, emotionally gripping, highly clickable. Clear visual hierarchy: Title first, then Face, then Label. The face must remain exactly as in the reference photo.
 
-Negative prompt: different person, altered face, changed facial features, beautified skin, plastic skin, face reshaping, different expression, different age, extra people, distorted hands, misspelled text, watermark, blurry face.
+NEGATIVE PROMPT: different person, altered face, changed facial features, beautified skin, plastic skin, face reshaping, different expression, different age, extra people, distorted hands, misspelled text, extra words, watermark, blurry face, thin font, low-contrast text, background unrelated to the title.
